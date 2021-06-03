@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jayde-spa/static/css/main.a55c8a11.chunk.css",
-    "main.js": "/jayde-spa/static/js/main.c0083d02.chunk.js",
-    "main.js.map": "/jayde-spa/static/js/main.c0083d02.chunk.js.map",
+    "main.js": "/jayde-spa/static/js/main.eed674ad.chunk.js",
+    "main.js.map": "/jayde-spa/static/js/main.eed674ad.chunk.js.map",
     "runtime-main.js": "/jayde-spa/static/js/runtime-main.f38c9994.js",
     "runtime-main.js.map": "/jayde-spa/static/js/runtime-main.f38c9994.js.map",
     "static/js/2.f33bd717.chunk.js": "/jayde-spa/static/js/2.f33bd717.chunk.js",
@@ -20,12 +20,20 @@
     "static/media/headstar10.fcbbe4c2.png": "/jayde-spa/static/media/headstar10.fcbbe4c2.png",
     "static/media/ii1.7f307da2.png": "/jayde-spa/static/media/ii1.7f307da2.png",
     "static/media/ii2.36f14ff0.png": "/jayde-spa/static/media/ii2.36f14ff0.png",
-    "static/media/ii3.324fc83f.png": "/jayde-spa/static/media/ii3.324fc83f.png"
+    "static/media/ii3.324fc83f.png": "/jayde-spa/static/media/ii3.324fc83f.png",
+    "static/media/pic1.26366610.jpg": "/jayde-spa/static/media/pic1.26366610.jpg",
+    "static/media/pic2.44c902bf.jpg": "/jayde-spa/static/media/pic2.44c902bf.jpg",
+    "static/media/pic3.53de3313.jpg": "/jayde-spa/static/media/pic3.53de3313.jpg",
+    "static/media/pic4.a3c2de91.jpg": "/jayde-spa/static/media/pic4.a3c2de91.jpg",
+    "static/media/pic5.c73ab99a.jpg": "/jayde-spa/static/media/pic5.c73ab99a.jpg",
+    "static/media/pic6.9140d90a.jpg": "/jayde-spa/static/media/pic6.9140d90a.jpg",
+    "static/media/pic7.338ffe00.jpg": "/jayde-spa/static/media/pic7.338ffe00.jpg",
+    "static/media/pic8.bb33d266.jpg": "/jayde-spa/static/media/pic8.bb33d266.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f38c9994.js",
     "static/js/2.f33bd717.chunk.js",
     "static/css/main.a55c8a11.chunk.css",
-    "static/js/main.c0083d02.chunk.js"
+    "static/js/main.eed674ad.chunk.js"
   ]
 }
