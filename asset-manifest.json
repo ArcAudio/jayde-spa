@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jayde-spa/static/css/main.7933d548.chunk.css",
+    "main.css": "/jayde-spa/static/css/main.680d6341.chunk.css",
     "main.js": "/jayde-spa/static/js/main.29bdfddb.chunk.js",
     "main.js.map": "/jayde-spa/static/js/main.29bdfddb.chunk.js.map",
     "runtime-main.js": "/jayde-spa/static/js/runtime-main.f38c9994.js",
@@ -10,7 +10,7 @@
     "static/js/2.aca8a8e9.chunk.js.map": "/jayde-spa/static/js/2.aca8a8e9.chunk.js.map",
     "index.html": "/jayde-spa/index.html",
     "static/css/2.4f8976c6.chunk.css.map": "/jayde-spa/static/css/2.4f8976c6.chunk.css.map",
-    "static/css/main.7933d548.chunk.css.map": "/jayde-spa/static/css/main.7933d548.chunk.css.map",
+    "static/css/main.680d6341.chunk.css.map": "/jayde-spa/static/css/main.680d6341.chunk.css.map",
     "static/js/2.aca8a8e9.chunk.js.LICENSE.txt": "/jayde-spa/static/js/2.aca8a8e9.chunk.js.LICENSE.txt",
     "static/media/bgfill.321cace6.png": "/jayde-spa/static/media/bgfill.321cace6.png",
     "static/media/bricktexture0.3306dde5.png": "/jayde-spa/static/media/bricktexture0.3306dde5.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.f38c9994.js",
     "static/css/2.4f8976c6.chunk.css",
     "static/js/2.aca8a8e9.chunk.js",
-    "static/css/main.7933d548.chunk.css",
+    "static/css/main.680d6341.chunk.css",
     "static/js/main.29bdfddb.chunk.js"
   ]
 }
